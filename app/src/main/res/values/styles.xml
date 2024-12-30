@@ -1,0 +1,11 @@
+<resources>
+    <!-- Tema kustom untuk AlertDialog -->
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Mengubah latar belakang agar gelap -->
+        <item name="android:background">@drawable/dialog_background</item>
+        <!-- Mengubah warna tombol Yes dan No -->
+        <item name="android:textColorPrimary">@color/navy</item>
+        <item name="android:textColorSecondary">@color/red</item>
+    </style>
+
+</resources>

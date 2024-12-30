@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aliceblu"> #fbfdff</color>
+    <color name="black">#FF000000</color>
+    <color name="darkw"> #f9f9f9</color>
+    <color name="green"> #28a745</color>
+    <color name="navy">#003366</color>
+    <color name="red"> #dc3545</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">WaafStock</string>
+    <style name="Base.Theme.WaafStock" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryVariant">@color/navy</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        
+        <item name="android:statusBarColor">@color/navy</item>
+        
+        <item name="android:navigationBarColor">@color/navy</item>
+    </style>
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        
+        <item name="android:background">@drawable/dialog_background</item>
+        
+        <item name="android:textColorPrimary">@color/navy</item>
+        <item name="android:textColorSecondary">@color/red</item>
+    </style>
+    <style name="Theme.WaafStock" parent="Base.Theme.WaafStock">
+        
+    </style>
+</resources>

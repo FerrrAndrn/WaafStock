@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema dasar aplikasi -->
+    <style name="Base.Theme.WaafStock" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Warna utama aplikasi -->
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryVariant">@color/navy</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Warna status bar -->
+        <item name="android:statusBarColor">@color/navy</item>
+        <!-- Warna navigasi bar -->
+        <item name="android:navigationBarColor">@color/navy</item>
+    </style>
+
+    <!-- Tema utama aplikasi -->
+    <style name="Theme.WaafStock" parent="Base.Theme.WaafStock">
+        <!-- Kustomisasi tambahan jika diperlukan -->
+    </style>
+</resources>

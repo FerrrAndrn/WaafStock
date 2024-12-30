@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:background="@color/navy"
+    android:padding="8dp">
+
+        <!-- Tombol Hamburger -->
+        <ImageButton
+            android:id="@+id/hamburger_button"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/ham"
+            android:contentDescription="Hamburger Button"
+            android:background="@android:color/transparent"
+            android:layout_marginHorizontal="4dp"
+            android:scaleType="fitCenter" />
+
+        <!-- Logo -->
+        <ImageView
+            android:id="@+id/logo_waafstock"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:src="@drawable/wdas"
+            android:layout_marginStart="8dp" />
+
+        <!-- Text Welcome -->
+        <TextView
+            android:id="@+id/tv_username"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Username"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:gravity="end"
+            android:layout_marginEnd="10dp" />
+
+        <!-- Tombol Logout -->
+        <Button
+            android:id="@+id/btn_logout"
+            android:layout_width="65dp"
+            android:layout_height="35dp"
+            android:text="Log out"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:textColor="@color/navy"
+            android:backgroundTint="@android:color/white"
+            android:paddingHorizontal="2dp"
+            android:layout_marginEnd="4dp"/>
+    </LinearLayout>

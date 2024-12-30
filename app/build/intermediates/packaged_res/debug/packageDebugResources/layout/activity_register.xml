@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="32dp"
+    android:background="@color/aliceblu">
+
+    <!-- Judul Register Account -->
+
+    <!-- Layout Konten Form -->
+
+    <TextView
+        android:id="@+id/tv_register_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Register Account"
+        android:textColor="@color/navy"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/tv_register_title"
+        android:layout_marginTop="16dp">
+
+        <!-- Kode Pegawai -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kode Pegawai"
+            android:textColor="@color/navy"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/et_kode_pegawai"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan kode pegawai"
+            android:background="@drawable/edit_text_bg"
+            android:padding="12dp"
+            android:textColor="@color/navy"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Nama Pegawai -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nama Pegawai"
+            android:textColor="@color/navy"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/et_nama_pegawai"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan nama pegawai"
+            android:background="@drawable/edit_text_bg"
+            android:padding="12dp"
+            android:textColor="@color/navy"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Username -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Username"
+            android:textColor="@color/navy"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/et_username_register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan username"
+            android:background="@drawable/edit_text_bg"
+            android:padding="12dp"
+            android:textColor="@color/navy"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Password -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Password"
+            android:textColor="@color/navy"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/et_password_register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan password"
+            android:inputType="textPassword"
+            android:background="@drawable/edit_text_bg"
+            android:padding="12dp"
+            android:textColor="@color/navy"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Email -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Email"
+            android:textColor="@color/navy"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/et_email_register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan email"
+            android:inputType="textEmailAddress"
+            android:background="@drawable/edit_text_bg"
+            android:padding="12dp"
+            android:textColor="@color/navy"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Tombol Register -->
+        <Button
+            android:id="@+id/btn_register"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="Register"
+            android:background="@drawable/bt_login"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="16dp"/>
+
+        <!-- Link Sudah Punya Akun -->
+        <TextView
+            android:id="@+id/tv_already_have_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:text="Already have an account? Log In"
+            android:textColor="@color/navy"
+            android:textSize="16sp"
+            android:clickable="true"
+            android:focusable="true"
+            android:textStyle="bold"
+            android:onClick="goToLogin"
+            android:padding="8dp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

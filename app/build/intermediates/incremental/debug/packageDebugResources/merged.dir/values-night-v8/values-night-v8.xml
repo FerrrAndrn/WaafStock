@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.WaafStock" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryVariant">@color/navy</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        
+        <item name="android:statusBarColor">@color/navy</item>
+        <item name="android:navigationBarColor">@color/navy</item>
+    </style>
+    <style name="Base.Theme.WaafStock.Dark" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryVariant">@color/navy</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        
+        <item name="android:statusBarColor">@color/navy</item>
+        <item name="android:navigationBarColor">@color/navy</item>
+    </style>
+    <style name="Theme.WaafStock" parent="Base.Theme.WaafStock">
+        
+    </style>
+</resources>

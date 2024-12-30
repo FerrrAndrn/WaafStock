@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_sidebar_button_default.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/sidebar_button_default.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/layout_navbar.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/layout/navbar.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_user.png.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/user.png"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_ham.png.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/ham.png"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_sidebar_button_active.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/sidebar_button_active.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/layout_activity_register.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_bt_delete.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/bt_delete.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_dialog_background.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/dialog_background.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/layout_activity_dashboard.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_edit_text_bg.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/edit_text_bg.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/layout_activity_view.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/layout/activity_view.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_waafs.png.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/waafs.png"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_tablefil.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/tablefil.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_hamz.jpg.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/hamz.jpg"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/layout_activity_edit.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/layout/activity_edit.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_bt_login.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/bt_login.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_itemku.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/itemku.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_bt_edit.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/bt_edit.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.untidar.waafstock.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/layout_activity_stats.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/layout/activity_stats.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_wdas.png.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/wdas.png"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/layout_activity_form.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/layout/activity_form.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/layout_item_barang.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/layout/item_barang.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_tablehead.xml.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/tablehead.xml"
+    },
+    {
+        "merged": "com.untidar.waafstock.app-debug-32:/drawable_lock.png.flat",
+        "source": "com.untidar.waafstock.app-main-34:/drawable/lock.png"
+    }
+]

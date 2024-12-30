@@ -1,0 +1,6 @@
+com.untidar.waafstock.test.app-tracing-1.2.0-0 C:\Users\andre\.gradle\caches\8.9\transforms\36a69137e08a8003c14900aaa6db1292\transformed\tracing-1.2.0\res
+com.untidar.waafstock.test.app-core-1.6.1-1 C:\Users\andre\.gradle\caches\8.9\transforms\b7c6754a4cdffe66c642849edf8f06f8\transformed\core-1.6.1\res
+com.untidar.waafstock.test.app-androidTest-2 C:\Users\andre\AndroidStudioProjects\WaafStock\app\build\generated\res\resValues\androidTest\debug
+com.untidar.waafstock.test.app-mergeDebugAndroidTestResources-3 C:\Users\andre\AndroidStudioProjects\WaafStock\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.untidar.waafstock.test.app-mergeDebugAndroidTestResources-4 C:\Users\andre\AndroidStudioProjects\WaafStock\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.untidar.waafstock.test.app-debugAndroidTest-5 C:\Users\andre\AndroidStudioProjects\WaafStock\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

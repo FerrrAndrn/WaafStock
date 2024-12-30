@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema dasar aplikasi -->
+    <style name="Base.Theme.WaafStock" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Warna utama untuk tema terang -->
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryVariant">@color/navy</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Warna statusbar dan navbar untuk tema terang -->
+        <item name="android:statusBarColor">@color/navy</item>
+        <item name="android:navigationBarColor">@color/navy</item>
+    </style>
+
+    <!-- Tema untuk mode terang -->
+    <style name="Theme.WaafStock" parent="Base.Theme.WaafStock">
+        <!-- Kustomisasi tambahan jika diperlukan -->
+    </style>
+
+    <!-- Tema dasar aplikasi untuk mode gelap -->
+    <style name="Base.Theme.WaafStock.Dark" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Warna utama untuk tema gelap -->
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryVariant">@color/navy</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Warna statusbar dan navbar untuk tema gelap -->
+        <item name="android:statusBarColor">@color/navy</item>
+        <item name="android:navigationBarColor">@color/navy</item>
+    </style>
+</resources>

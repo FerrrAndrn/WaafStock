@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="32dp"
+    android:background="@color/aliceblu">
+
+    <!-- Judul Form Input Barang -->
+    <TextView
+        android:id="@+id/tv_form_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Form Input Barang"
+        android:textColor="@color/navy"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/tv_form_title"
+        android:layout_marginTop="16dp">
+
+        <!-- Kode Barang -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kode Barang"
+            android:textColor="@color/navy"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/etKodeBarang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan kode barang"
+            android:background="@drawable/edit_text_bg"
+            android:padding="12dp"
+            android:textColor="@color/navy"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Nama Barang -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nama Barang"
+            android:textColor="@color/navy"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/etNamaBarang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan nama barang"
+            android:background="@drawable/edit_text_bg"
+            android:padding="12dp"
+            android:textColor="@color/navy"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Merk -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Merk"
+            android:textColor="@color/navy"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/etMerk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan merk"
+            android:background="@drawable/edit_text_bg"
+            android:padding="12dp"
+            android:textColor="@color/navy"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Type -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Type"
+            android:textColor="@color/navy"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/etType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan tipe barang"
+            android:background="@drawable/edit_text_bg"
+            android:padding="12dp"
+            android:textColor="@color/navy"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Jumlah -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jumlah"
+            android:textColor="@color/navy"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/etJumlah"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan jumlah"
+            android:inputType="number"
+            android:background="@drawable/edit_text_bg"
+            android:padding="12dp"
+            android:textColor="@color/navy"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Satuan -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Satuan"
+            android:textColor="@color/navy"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/etSatuan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan satuan"
+            android:background="@drawable/edit_text_bg"
+            android:padding="12dp"
+            android:textColor="@color/navy"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Tombol Add Barang -->
+        <Button
+            android:id="@+id/btnAddBarang"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="Add Barang"
+            android:background="@drawable/bt_login"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="16dp"/>
+    </LinearLayout>
+
+</RelativeLayout>
